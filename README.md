@@ -1,4 +1,5 @@
 👋 Hi, I’m Shaik Azeez
+
 👀 I’m interested in learning New updated and trending technologies
 🌱 I’m currently working as a software trainee intern in Affworld Technologies
 💞️ I’m looking to collaborate on open source projects and involve new creativity.
